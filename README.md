@@ -26,6 +26,10 @@ This is the toolkit page of the [2025 RoboSense Challenge](https://robosense2025
 | 4 | Cross-Modal Drone Navigation       | [Track 4 Page](https://robosense2025.github.io/track4) | [GitHub Repo 4](https://github.com/robosense2025/track4) | [Server 4](https://www.codabench.org/competitions/9219/) |
 | 5 | Cross-Platform 3D Object Detection | [Track 5 Page](https://robosense2025.github.io/track5) | [GitHub Repo 5](https://github.com/robosense2025/track5) | [Server 5](https://www.codabench.org/competitions/9179/) |
 
+## LaTeX Template
+
+Please download the template from [here](https://github.com/robosense2025/toolkit/blob/main/RoboSense2025_Technical_Report.zip).
+
 
 ## Frequently Asked Questions (FAQs)
 
