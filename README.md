@@ -69,22 +69,22 @@ Photos for the **RoboSense 2025 Award Ceremony**:
 | Place | Team Name | Certificate | Team Members | 
 |:-:|:-|:-:|:-|
 ||
-| 1<sup>st</sup> | :1st_place_medal: | [Download](./certificates/Track2_.pdf) |  |
-| 2<sup>nd</sup> | :2nd_place_medal: | [Download](./certificates/Track2_.pdf) |  |
-| 3<sup>rd</sup> | :3rd_place_medal: | [Download](./certificates/Track2_.pdf) |  |
-| 4<sup>th</sup> |  | [Download](./certificates/Track2_.pdf) |  |
-| 5<sup>th</sup> |  | [Download](./certificates/Track2_.pdf) |  |
+| 1<sup>st</sup> | :1st_place_medal: **Are Ivan** | [Download](./certificates/Track2_AreIvan.pdf) | Zihao Zhang, Yu Zhong, Enzhu Gao, Xinhan Zheng, Xueting Wang, Shouming Li, Yunkai Gao, Siming Lan, Mingfei Han, Xing Hu |
+| 2<sup>nd</sup> | :2nd_place_medal: **Xiaomi EV-AD VLA** | [Download](./certificates/Track2_XiaomiEV.pdf) | Erjia Xiao, Lingfeng Zhang, Yingbo Tang, Hao Cheng, Renjing Xu, Wenbo Ding, Lei Zhou, Long Chen, Hangjun Ye, Xiaoshuai Hao |
+| 3<sup>rd</sup> | :3rd_place_medal: **AutoRobot** | [Download](./certificates/Track2_AutoRobot.pdf) | Wenxiang Shi, Jingmeng Zhou, Weijun Zeng, Zhipeng Zhang |
+| 4<sup>th</sup> | **DUO** | [Download](./certificates/Track2_DUO.pdf) | Faduo Liang |
+| 5<sup>th</sup> | **CityU-ASL** | [Download](./certificates/Track2_CityUASL.pdf) | Yang Li, Congfei Li, Yuxiang Sun |
 
 
 #### Track 3: Sensor Placement
 
 | Place | Team Name | Certificate | Team Members | 
 |:-:|:-|:-:|:-|
-| 1<sup>st</sup> | :1st_place_medal: | [Download](./certificates/Track3_.pdf) |  |
-| 2<sup>nd</sup> | :2nd_place_medal: | [Download](./certificates/Track3_.pdf) |  |
-| 3<sup>rd</sup> | :3rd_place_medal: | [Download](./certificates/Track3_.pdf) |  |
-| 4<sup>th</sup> |  | [Download](./certificates/Track3_.pdf) |  |
-| 5<sup>th</sup> |  | [Download](./certificates/Track3_.pdf) |  |
+| 1<sup>st</sup> | :1st_place_medal: **LRP** | [Download](./certificates/Track3_LRP.pdf) | Dusan Malic, Christian Fruhwirth-Reisinger, Alexander Prutsch, Wei Lin, Samuel Schulter, Horst Possegger |
+| 2<sup>nd</sup> | :2nd_place_medal: **Point Loom** | [Download](./certificates/Track3_PointLoom.pdf) | Shuangzhi Li, Junlong Shen, Xingyu Li |
+| 3<sup>rd</sup> | :3rd_place_medal: **Smartqiu** | [Download](./certificates/Track3_Smartqiu.pdf) | Kexin Xu |
+| 4<sup>th</sup> | **DZT328** | [Download](./certificates/Track3_DZT328.pdf) | Zihang Wang, Yiming Peng, Guanyu Zong, Xu Li, Binghao Wang, Hao Wei, Yongxin Ma, Yunke Shi, Shuaipeng Liu, Dong Kong |
+| 5<sup>th</sup> | **seu_zwk** | [Download](./certificates/Track3_seuzwk.pdf) | Wenkai Zhu, Wang Xu, Linru Li, Longjie Liao, Jun Yan, Benwu Wang, Xueliang Ren, Xiaoyu Yue, Jixian Zheng, Jinfeng Wu |
 
 
 #### Track 4: Cross-Modal Drone Navigation
