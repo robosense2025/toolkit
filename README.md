@@ -30,11 +30,23 @@ This is the toolkit page of the [2025 RoboSense Challenge](https://robosense2025
 ## RoboSense Workshop @ IROS 2025
 
 
-### :video_camera: Workshop Materials
+| <img width="600" height="336" alt="workshop_1" src="https://github.com/user-attachments/assets/5c34d495-b24f-43f9-9d48-1dabdd08423f" /> |
+|:-:|
 
-#### Video Recording
 
-- Download the video recording of the RoboSense Challenge 2025 Workshop at [this]() Google Drive link.
+### :movie_camera: Video Recording
+
+- Download the video of the RoboSense Challenge 2025 Workshop at [this](https://drive.google.com/file/d/181eemff7yy0w7DeD8sUCQ6g0g5obshFX/view?usp=drive_link) Google Drive link.
+- Video @ YouTube: To be available.
+- Video @ bilibili: To be available.
+
+### :camera: Photos
+
+Photos for the **RoboSense 2025 Workshop**: 
+- Download the photos at [this](https://drive.google.com/drive/folders/1aI5tZPBFLNM3BkDTlEQnG8xfAu0N5Bwk?usp=sharing) Google Drive link.
+
+Photos for the **RoboSense 2025 Award Ceremony**:
+- Download the photos at [this](https://drive.google.com/drive/folders/1k2b8pfA_ZIyRUB73QO_CQrZVyecF1e4-?usp=sharing) Google Drive link.
 
 
 
