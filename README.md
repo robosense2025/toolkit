@@ -30,6 +30,13 @@ This is the toolkit page of the [2025 RoboSense Challenge](https://robosense2025
 ## RoboSense Workshop @ IROS 2025
 
 
+### :video_camera: Workshop Materials
+
+#### Video Recording
+
+- Download the video recording of the RoboSense Challenge 2025 Workshop at [this]() Google Drive link.
+
+
 
 ### :trophy: Awards & Honors
 
@@ -37,53 +44,55 @@ This is the toolkit page of the [2025 RoboSense Challenge](https://robosense2025
 
 | Place | Team Name | Certificate | Team Members | 
 |:-:|:-|:-:|:-|
-| 1st | :1st_place_medal: TQL | [Download](./certificates/Track1_TQL.pdf) | Ji Ao, Jiangpeng Zheng, Guang Yang, Siyu Wang |
-| 2nd | :2nd_place_medal: UCAS-CSU | [Download](./certificates/Track1_UCASCSU.pdf) | 
-| 3rd | :3rd_place_medal: AutoRobots | [Download](./certificates/Track1_AutoRobots.pdf) | 
-| 4th | CVML | [Download](./certificates/Track1_CVML.pdf) | 
-| 5th | UQMM | [Download](./certificates/Track1_UQMM.pdf) | 
+||
+| 1<sup>st</sup> | :1st_place_medal: **TQL** | [Download](./certificates/Track1_TQL.pdf) | Ji Ao, Jiangpeng Zheng, Guang Yang, Siyu Wang |
+| 2<sup>nd</sup> | :2nd_place_medal: **UCAS-CSU** | [Download](./certificates/Track1_UCASCSU.pdf) | Aodi Wu, Xubo Luo |
+| 3<sup>rd</sup> | :3rd_place_medal: **AutoRobots** | [Download](./certificates/Track1_AutoRobots.pdf) | Hanshi Wang, Xijie Gong, Yixiang Yang, Qianli Ma, Zhipeng Zhang |
+| 4<sup>th</sup> | **CVML** | [Download](./certificates/Track1_CVML.pdf) | Seungjun Yu, Junsung Park, Youngsun Lim, Hyunjung Shim |
+| 5<sup>th</sup> | **UQMM** | [Download](./certificates/Track1_UQMM.pdf) | Yuxia Fu, Djamahl Etchegaray, Yadan Luo |
 
 
 #### Track 2: Social Navigation
 
 | Place | Team Name | Certificate | Team Members | 
 |:-:|:-|:-:|:-|
-| 1st | :1st_place_medal: | [Download](./certificates/Track2_.pdf) |  |
-| 2nd | :2nd_place_medal: | [Download](./certificates/Track2_.pdf) |  |
-| 3rd | :3rd_place_medal: | [Download](./certificates/Track2_.pdf) |  |
-| 4th |  | [Download](./certificates/Track2_.pdf) |  |
-| 5th |  | [Download](./certificates/Track2_.pdf) |  |
+||
+| 1<sup>st</sup> | :1st_place_medal: | [Download](./certificates/Track2_.pdf) |  |
+| 2<sup>nd</sup> | :2nd_place_medal: | [Download](./certificates/Track2_.pdf) |  |
+| 3<sup>rd</sup> | :3rd_place_medal: | [Download](./certificates/Track2_.pdf) |  |
+| 4<sup>th</sup> |  | [Download](./certificates/Track2_.pdf) |  |
+| 5<sup>th</sup> |  | [Download](./certificates/Track2_.pdf) |  |
 
 
 #### Track 3: Sensor Placement
 
 | Place | Team Name | Certificate | Team Members | 
 |:-:|:-|:-:|:-|
-| 1st | :1st_place_medal: | [Download](./certificates/Track3_.pdf) |  |
-| 2nd | :2nd_place_medal: | [Download](./certificates/Track3_.pdf) |  |
-| 3rd | :3rd_place_medal: | [Download](./certificates/Track3_.pdf) |  |
-| 4th |  | [Download](./certificates/Track3_.pdf) |  |
-| 5th |  | [Download](./certificates/Track3_.pdf) |  |
+| 1<sup>st</sup> | :1st_place_medal: | [Download](./certificates/Track3_.pdf) |  |
+| 2<sup>nd</sup> | :2nd_place_medal: | [Download](./certificates/Track3_.pdf) |  |
+| 3<sup>rd</sup> | :3rd_place_medal: | [Download](./certificates/Track3_.pdf) |  |
+| 4<sup>th</sup> |  | [Download](./certificates/Track3_.pdf) |  |
+| 5<sup>th</sup> |  | [Download](./certificates/Track3_.pdf) |  |
 
 
 #### Track 4: Cross-Modal Drone Navigation
 
 | Place | Team Name | Certificate | Team Members | 
 |:-:|:-|:-:|:-|
-| 1st | :1st_place_medal: | [Download](./certificates/Track4_.pdf) |  |
-| 2nd | :2nd_place_medal: | [Download](./certificates/Track4_.pdf) |  |
-| 3rd | :3rd_place_medal: | [Download](./certificates/Track4_.pdf) |  |
+| 1<sup>st</sup> | :1st_place_medal: | [Download](./certificates/Track4_.pdf) |  |
+| 2<sup>nd</sup> | :2nd_place_medal: | [Download](./certificates/Track4_.pdf) |  |
+| 3<sup>rd</sup> | :3rd_place_medal: | [Download](./certificates/Track4_.pdf) |  |
 
 
 #### Track 5: Cross-Platform 3D Object Detection
 
 | Place | Team Name | Certificate | Team Members | 
 |:-:|:-|:-:|:-|
-| 1st | :1st_place_medal: | [Download](./certificates/Track5_.pdf) |  |
-| 2nd | :2nd_place_medal: | [Download](./certificates/Track5_.pdf) |  |
-| 3rd | :3rd_place_medal: | [Download](./certificates/Track5_.pdf) |  |
-| 4th |  | [Download](./certificates/Track5_.pdf) |  |
-| 5th |  | [Download](./certificates/Track5_.pdf) |  |
+| 1<sup>st</sup> | :1st_place_medal: | [Download](./certificates/Track5_.pdf) |  |
+| 2<sup>nd</sup> | :2nd_place_medal: | [Download](./certificates/Track5_.pdf) |  |
+| 3<sup>rd</sup> | :3rd_place_medal: | [Download](./certificates/Track5_.pdf) |  |
+| 4<sup>th</sup> |  | [Download](./certificates/Track5_.pdf) |  |
+| 5<sup>th</sup> |  | [Download](./certificates/Track5_.pdf) |  |
 
 
 
