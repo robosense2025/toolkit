@@ -57,9 +57,9 @@ Photos for the **RoboSense 2025 Award Ceremony**:
 | Place | Team Name | Certificate | Team Members | 
 |:-:|:-|:-:|:-|
 ||
-| 1<sup>st</sup> | :1st_place_medal: **TQL** | [Download](./certificates/Track1_TQL.pdf) | Ji Ao, Jiangpeng Zheng, Guang Yang, Siyu Wang |
-| 2<sup>nd</sup> | :2nd_place_medal: **UCAS-CSU** | [Download](./certificates/Track1_UCASCSU.pdf) | Aodi Wu, Xubo Luo |
-| 3<sup>rd</sup> | :3rd_place_medal: **AutoRobots** | [Download](./certificates/Track1_AutoRobots.pdf) | Hanshi Wang, Xijie Gong, Yixiang Yang, Qianli Ma, Zhipeng Zhang |
+| 1<sup>st</sup> | :1st_place_medal:**TQL** | [Download](./certificates/Track1_TQL.pdf) | Ji Ao, Jiangpeng Zheng, Guang Yang, Siyu Wang |
+| 2<sup>nd</sup> | :2nd_place_medal:**UCAS-CSU** | [Download](./certificates/Track1_UCASCSU.pdf) | Aodi Wu, Xubo Luo |
+| 3<sup>rd</sup> | :3rd_place_medal:**AutoRobots** | [Download](./certificates/Track1_AutoRobots.pdf) | Hanshi Wang, Xijie Gong, Yixiang Yang, Qianli Ma, Zhipeng Zhang |
 | 4<sup>th</sup> | **CVML** | [Download](./certificates/Track1_CVML.pdf) | Seungjun Yu, Junsung Park, Youngsun Lim, Hyunjung Shim |
 | 5<sup>th</sup> | **UQMM** | [Download](./certificates/Track1_UQMM.pdf) | Yuxia Fu, Djamahl Etchegaray, Yadan Luo |
 
@@ -69,9 +69,9 @@ Photos for the **RoboSense 2025 Award Ceremony**:
 | Place | Team Name | Certificate | Team Members | 
 |:-:|:-|:-:|:-|
 ||
-| 1<sup>st</sup> | :1st_place_medal: **Are Ivan** | [Download](./certificates/Track2_AreIvan.pdf) | Zihao Zhang, Yu Zhong, Enzhu Gao, Xinhan Zheng, Xueting Wang, Shouming Li, Yunkai Gao, Siming Lan, Mingfei Han, Xing Hu |
-| 2<sup>nd</sup> | :2nd_place_medal: **Xiaomi EV-AD VLA** | [Download](./certificates/Track2_XiaomiEV.pdf) | Erjia Xiao, Lingfeng Zhang, Yingbo Tang, Hao Cheng, Renjing Xu, Wenbo Ding, Lei Zhou, Long Chen, Hangjun Ye, Xiaoshuai Hao |
-| 3<sup>rd</sup> | :3rd_place_medal: **AutoRobot** | [Download](./certificates/Track2_AutoRobot.pdf) | Wenxiang Shi, Jingmeng Zhou, Weijun Zeng, Zhipeng Zhang |
+| 1<sup>st</sup> | :1st_place_medal:**Are Ivan** | [Download](./certificates/Track2_AreIvan.pdf) | Zihao Zhang, Yu Zhong, Enzhu Gao, Xinhan Zheng, Xueting Wang, Shouming Li, Yunkai Gao, Siming Lan, Mingfei Han, Xing Hu |
+| 2<sup>nd</sup> | :2nd_place_medal:**Xiaomi EV-AD VLA** | [Download](./certificates/Track2_XiaomiEV.pdf) | Erjia Xiao, Lingfeng Zhang, Yingbo Tang, Hao Cheng, Renjing Xu, Wenbo Ding, Lei Zhou, Long Chen, Hangjun Ye, Xiaoshuai Hao |
+| 3<sup>rd</sup> | :3rd_place_medal:**AutoRobot** | [Download](./certificates/Track2_AutoRobot.pdf) | Wenxiang Shi, Jingmeng Zhou, Weijun Zeng, Zhipeng Zhang |
 | 4<sup>th</sup> | **DUO** | [Download](./certificates/Track2_DUO.pdf) | Faduo Liang |
 | 5<sup>th</sup> | **CityU-ASL** | [Download](./certificates/Track2_CityUASL.pdf) | Yang Li, Congfei Li, Yuxiang Sun |
 
@@ -80,9 +80,9 @@ Photos for the **RoboSense 2025 Award Ceremony**:
 
 | Place | Team Name | Certificate | Team Members | 
 |:-:|:-|:-:|:-|
-| 1<sup>st</sup> | :1st_place_medal: **LRP** | [Download](./certificates/Track3_LRP.pdf) | Dusan Malic, Christian Fruhwirth-Reisinger, Alexander Prutsch, Wei Lin, Samuel Schulter, Horst Possegger |
-| 2<sup>nd</sup> | :2nd_place_medal: **Point Loom** | [Download](./certificates/Track3_PointLoom.pdf) | Shuangzhi Li, Junlong Shen, Xingyu Li |
-| 3<sup>rd</sup> | :3rd_place_medal: **Smartqiu** | [Download](./certificates/Track3_Smartqiu.pdf) | Kexin Xu |
+| 1<sup>st</sup> | :1st_place_medal:**LRP** | [Download](./certificates/Track3_LRP.pdf) | Dusan Malic, Christian Fruhwirth-Reisinger, Alexander Prutsch, Wei Lin, Samuel Schulter, Horst Possegger |
+| 2<sup>nd</sup> | :2nd_place_medal:**Point Loom** | [Download](./certificates/Track3_PointLoom.pdf) | Shuangzhi Li, Junlong Shen, Xingyu Li |
+| 3<sup>rd</sup> | :3rd_place_medal:**Smartqiu** | [Download](./certificates/Track3_Smartqiu.pdf) | Kexin Xu |
 | 4<sup>th</sup> | **DZT328** | [Download](./certificates/Track3_DZT328.pdf) | Zihang Wang, Yiming Peng, Guanyu Zong, Xu Li, Binghao Wang, Hao Wei, Yongxin Ma, Yunke Shi, Shuaipeng Liu, Dong Kong |
 | 5<sup>th</sup> | **seu_zwk** | [Download](./certificates/Track3_seuzwk.pdf) | Wenkai Zhu, Wang Xu, Linru Li, Longjie Liao, Jun Yan, Benwu Wang, Xueliang Ren, Xiaoyu Yue, Jixian Zheng, Jinfeng Wu |
 
@@ -91,20 +91,20 @@ Photos for the **RoboSense 2025 Award Ceremony**:
 
 | Place | Team Name | Certificate | Team Members | 
 |:-:|:-|:-:|:-|
-| 1<sup>st</sup> | :1st_place_medal: | [Download](./certificates/Track4_.pdf) |  |
-| 2<sup>nd</sup> | :2nd_place_medal: | [Download](./certificates/Track4_.pdf) |  |
-| 3<sup>rd</sup> | :3rd_place_medal: | [Download](./certificates/Track4_.pdf) |  |
+| 1<sup>st</sup> | :1st_place_medal:**TeleAI** | [Download](./certificates/Track4_TeleAI.pdf) | Linfeng Li, Jian Zhao, Zepeng Yang, Yuhang Song, Bojun Lin, Tianle Zhang, Yuchen Yuan, Chi Zhang, Xuelong Li |
+| 2<sup>nd</sup> | :2nd_place_medal:**rhao_hur** | [Download](./certificates/Track4_rhaohur.pdf) | Hao Ruan, Jinliang Lin, Zhiming Luo, Yu Zang, Cheng Wang |
+| 3<sup>rd</sup> | :3rd_place_medal:**Xiaomi EV-AD VLA** | [Download](./certificates/Track4_XiaomiEV.pdf) | Lingfeng Zhang, Erjia Xiao, Yuchen Zhang, Haoxiang Fu, Ruibing Hu, Yanbiao Ma, Wenbo Ding, Long Chen, Hangjun Ye, Xiaoshuai Hao |
 
 
 #### Track 5: Cross-Platform 3D Object Detection
 
 | Place | Team Name | Certificate | Team Members | 
 |:-:|:-|:-:|:-|
-| 1<sup>st</sup> | :1st_place_medal: | [Download](./certificates/Track5_.pdf) |  |
-| 2<sup>nd</sup> | :2nd_place_medal: | [Download](./certificates/Track5_.pdf) |  |
-| 3<sup>rd</sup> | :3rd_place_medal: | [Download](./certificates/Track5_.pdf) |  |
-| 4<sup>th</sup> |  | [Download](./certificates/Track5_.pdf) |  |
-| 5<sup>th</sup> |  | [Download](./certificates/Track5_.pdf) |  |
+| 1<sup>st</sup> | :1st_place_medal:**Visionary** | [Download](./certificates/Track5_Visionary.pdf) | Youngseok Kim, Sihwan Hwang, Hyeonjun Jeong |
+| 2<sup>nd</sup> | :2nd_place_medal:**Point Loom** | [Download](./certificates/Track5_PointLoom.pdf) | Shuangzhi Li, Junlong Shen, Xingyu Li |
+| 3<sup>rd</sup> | :3rd_place_medal:**DUTLu_group** | [Download](./certificates/Track5_DUTLugroup.pdf) | Xiyan Feng, Wenbo Zhang, Lu Zhang, Yunzhi Zhuge, Huchuan Lu, You He |
+| 4<sup>th</sup> | **Hunter** | [Download](./certificates/Track5_Hunter.pdf) | Yongchun Lin, Huitong Yang, Liang Lei, Haoang Li, Xinliang Zhang, Zhiyong Wang, Xiaofeng Wang |
+| 5<sup>th</sup> | **TeamArcN** | [Download](./certificates/Track5_TeamArcN.pdf) | Shurui Qin, Wei Cong, Yao He |
 
 
 
