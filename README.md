@@ -19,7 +19,7 @@ This is the toolkit page of the [2025 RoboSense Challenge](https://robosense2025
 ## Track Toolkit
 
 | # | Track | Project Page | Code & Model | Evaluation Server |
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-|:-:|:-:|:-:|
 | 1 | Driving with Language              | [Track 1 Page](https://robosense2025.github.io/track1) | [GitHub Repo 1](https://github.com/robosense2025/track1) | [Server 1](https://www.codabench.org/competitions/9285/) |
 | 2 | Social Navigation                  | [Track 2 Page](https://robosense2025.github.io/track2) | [GitHub Repo 2](https://github.com/robosense2025/track2) | [Server 2](https://eval.ai/web/challenges/challenge-page/2557/overview) |
 | 3 | Sensor Placement                   | [Track 3 Page](https://robosense2025.github.io/track3) | [GitHub Repo 3](https://github.com/robosense2025/track3) | [Server 3](https://www.codabench.org/competitions/9284/) |
@@ -118,7 +118,7 @@ To be added.
 ## Frequently Asked Questions (FAQs)
 
 | # | Track | Link |
-|:-:|:-:|:-:|
+|:-:|:-|:-:|
 | 1 | Driving with Language              | [Frequently Asked Questions](https://robosense2025.github.io/track1) | 
 | 2 | Social Navigation                  | [Frequently Asked Questions](https://robosense2025.github.io/track2) | 
 | 3 | Sensor Placement                   | [Frequently Asked Questions](https://robosense2025.github.io/track3) | 
