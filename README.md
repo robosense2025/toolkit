@@ -112,9 +112,9 @@ Photos for the **RoboSense 2025 Award Ceremony**:
 | Team Name | Track | Certificate | Team Members | 
 |:-|:-|:-:|:-|
 ||
-| :trophy: **UCAS-CSU** | Driving with Language | [Download](./certificates/Innovative_UCASCSU.pdf) | Aodi Wu, Xubo Luo |
-| :trophy: **Xiaomi EV-AD VLA** | Social Navigation | [Download](./certificates/Innovative_XiaomiEV.pdf) | Erjia Xiao, Lingfeng Zhang, Yingbo Tang, Hao Cheng, Renjing Xu, Wenbo Ding, Lei Zhou, Long Chen, Hangjun Ye, Xiaoshuai Hao |
-| :trophy: **Visionary** | Cross-Platform 3D Object Detection | [Download](./certificates/Innovative_Visionary.pdf) | Youngseok Kim, Sihwan Hwang, Hyeonjun Jeong |
+| :trophy:**UCAS-CSU** | Driving with Language | [Download](./certificates/Innovative_UCASCSU.pdf) | Aodi Wu, Xubo Luo |
+| :trophy:**Xiaomi EV-AD VLA** | Social Navigation | [Download](./certificates/Innovative_XiaomiEV.pdf) | Erjia Xiao, Lingfeng Zhang, Yingbo Tang, Hao Cheng, Renjing Xu, Wenbo Ding, Lei Zhou, Long Chen, Hangjun Ye, Xiaoshuai Hao |
+| :trophy:**Visionary** | Cross-Platform 3D Object Detection | [Download](./certificates/Innovative_Visionary.pdf) | Youngseok Kim, Sihwan Hwang, Hyeonjun Jeong |
 
 
 #### Best Technical Report Awards
@@ -122,9 +122,9 @@ Photos for the **RoboSense 2025 Award Ceremony**:
 | Team Name | Track | Certificate | Team Members | 
 |:-|:-|:-:|:-|
 ||
-| :trophy: **DZT328** | Sensor Placement | [Download](./certificates/BestTechReport_DZT328.pdf) | Zihang Wang, Yiming Peng, Guanyu Zong, Xu Li, Binghao Wang, Hao Wei, Yongxin Ma, Yunke Shi, Shuaipeng Liu, Dong Kong |
-| :trophy: **seu_zwk** | Sensor Placement | [Download](./certificates/BestTechReport_seuzwk.pdf) | Wenkai Zhu, Wang Xu, Linru Li, Longjie Liao, Jun Yan, Benwu Wang, Xueliang Ren, Xiaoyu Yue, Jixian Zheng, Jinfeng Wu |
-| :trophy: **rhao_hur** | Cross-Modal Drone Navigation | [Download](./certificates/BestTechReport_rhaohur.pdf) | Hao Ruan, Jinliang Lin, Zhiming Luo, Yu Zang, Cheng Wang |
+| :trophy:**DZT328** | Sensor Placement | [Download](./certificates/BestTechReport_DZT328.pdf) | Zihang Wang, Yiming Peng, Guanyu Zong, Xu Li, Binghao Wang, Hao Wei, Yongxin Ma, Yunke Shi, Shuaipeng Liu, Dong Kong |
+| :trophy:**seu_zwk** | Sensor Placement | [Download](./certificates/BestTechReport_seuzwk.pdf) | Wenkai Zhu, Wang Xu, Linru Li, Longjie Liao, Jun Yan, Benwu Wang, Xueliang Ren, Xiaoyu Yue, Jixian Zheng, Jinfeng Wu |
+| :trophy:**rhao_hur** | Cross-Modal Drone Navigation | [Download](./certificates/BestTechReport_rhaohur.pdf) | Hao Ruan, Jinliang Lin, Zhiming Luo, Yu Zang, Cheng Wang |
 
 
 
