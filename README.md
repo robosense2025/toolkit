@@ -145,7 +145,13 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 
 ### Track Tech Reports
 
-To be added.
+#### Track 5: Cross-Platform 3D Object Detection
+
+
+> Robust 3D Object Detection via Physical-Aware Augmentation and Class-Specific Model Ensembling
+- **Authors:** <br>Shuangzhi Li, Junlong Shen, and Xingyu Li
+- **Affiliation:** <br>Department of Electrical and Computer Engineering, University of Alberta
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track5_PointLoom.pdf)
 
 
 
