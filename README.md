@@ -145,6 +145,25 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 
 ### Track Tech Reports
 
+#### Track 1: Driving with Language
+
+
+#### Track 2: Social Navigation
+
+
+#### Track 3: Sensor Placement
+
+> Robust 3D Object Detection under Sensor Placement Variability
+- **Authors:** <br>Junlong Shen, Shuangzhi Li, and Xingyu Li
+- **Affiliation:** <br>Department of Electrical and Computer Engineering, University of Alberta
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track3_PointLoom.pdf)
+
+
+
+#### Track 4: Cross-Modal Drone Navigation
+
+
+
 #### Track 5: Cross-Platform 3D Object Detection
 
 
