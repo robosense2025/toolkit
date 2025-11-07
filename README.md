@@ -162,6 +162,11 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 
 #### Track 4: Cross-Modal Drone Navigation
 
+> Caption-Guided Retrieval System for Cross-Modal Drone Navigation
+- **Authors:** <br>Lingfeng Zhang, Erjia Xiao, Yuchen Zhang, Haoxiang Fu, Ruibin Hu, Yanbiao Ma, Wenbo Ding, Long Chen, Hangjun Ye, Xiaoshuai Hao
+- **Affiliation:** <br>Tsinghua University, Xiaomi EV, HKUST(GZ), Georgia Institute of Technology, National University of Singapore, The Chinese University of Hong Kong, Renmin University of China
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track4_XiaomiEV_AD_VLA.pdf)
+
 
 
 #### Track 5: Cross-Platform 3D Object Detection
