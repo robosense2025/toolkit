@@ -165,6 +165,19 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track3_Smartqiu.pdf)
 
 
+> PlaceRecover: A Transformer-based Point Cloud Recovery Network with Implicit Neural Representations for Robust LiDAR Placement Adaptation
+- **Authors:** <br>Zihang Wang, Yiming Peng, Guanyu Zong, Xu Li, Binghao Wang, Hao Wei, Yongxin Ma, Yunke Shi, Shuaipeng Liu, and Dong Kong
+- **Affiliation:** <br>Southeast University, Ruimove.ai, Jiangsu University of Science and Technology, Zhejiang University, Shandong University, Shandong University of Science and Technology
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track3_DZT328.pdf)
+
+
+> PlaceRecover: Layout-Robust LiDAR 3D Object Detection via Multi-Representation Fusion
+- **Authors:** <br>Wenkai Zhu, Xu Li, Wang Xu, Linru Li, Longjie Liao, Benwu Wang, Xueliang Ren, Xiaoyu Yue, JiXian Zheng, and Jinfeng Wu
+- **Affiliation:** <br>Southeast University, Shanghai Jiao Tong University, Nanjing Normal University, Momenta.ai
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track3_seu_zwk.pdf)
+
+
+
 
 
 
