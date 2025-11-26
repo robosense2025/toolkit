@@ -159,6 +159,14 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track3_PointLoom.pdf)
 
 
+> Towards Generalizable 3D Object Detection Across Sensor Placements
+- **Authors:** <br>Kexin Xu
+- **Affiliation:** <br>University of Alberta, Edmonton, Alberta, Canada
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track3_Smartqiu.pdf)
+
+
+
+
 
 #### Track 4: Cross-Modal Drone Navigation
 
