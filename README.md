@@ -148,7 +148,13 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 #### Track 1: Driving with Language
 
 
+
+
+
 #### Track 2: Social Navigation
+
+
+
 
 
 #### Track 3: Sensor Placement
@@ -171,11 +177,10 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track3_DZT328.pdf)
 
 
-> PlaceRecover: Layout-Robust LiDAR 3D Object Detection via Multi-Representation Fusion
+> Layout-Robust LiDAR 3D Object Detection via Multi-Representation Fusion
 - **Authors:** <br>Wenkai Zhu, Xu Li, Wang Xu, Linru Li, Longjie Liao, Benwu Wang, Xueliang Ren, Xiaoyu Yue, JiXian Zheng, and Jinfeng Wu
 - **Affiliation:** <br>Southeast University, Shanghai Jiao Tong University, Nanjing Normal University, Momenta.ai
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track3_seu_zwk.pdf)
-
 
 
 
@@ -187,6 +192,8 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 - **Authors:** <br>Lingfeng Zhang, Erjia Xiao, Yuchen Zhang, Haoxiang Fu, Ruibin Hu, Yanbiao Ma, Wenbo Ding, Long Chen, Hangjun Ye, and Xiaoshuai Hao
 - **Affiliation:** <br>Tsinghua University, Xiaomi EV, HKUST(GZ), Georgia Institute of Technology, National University of Singapore, The Chinese University of Hong Kong, Renmin University of China
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track4_XiaomiEV_AD_VLA.pdf)
+
+
 
 
 
@@ -204,6 +211,10 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track5_DUTLu_group.pdf)
 
 
+> SegSy3D: Segmentation-Guided Self-Training and Model Synergy for Cross-Platform 3D Detection
+- **Authors:** <br>Yongchun Lin, Huitong Yang, Liang Lei, Haoang Li, Xinliang Zhang, Zhiyong Wang, and Xiaofeng Wang
+- **Affiliation:** <br>Guangdong University of Technology, The University of Queensland, HKUST (GZ), SenseTime
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track5_Hunter.pdf)
 
 
 
