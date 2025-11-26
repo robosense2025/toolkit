@@ -184,7 +184,7 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 #### Track 4: Cross-Modal Drone Navigation
 
 > Caption-Guided Retrieval System for Cross-Modal Drone Navigation
-- **Authors:** <br>Lingfeng Zhang, Erjia Xiao, Yuchen Zhang, Haoxiang Fu, Ruibin Hu, Yanbiao Ma, Wenbo Ding, Long Chen, Hangjun Ye, Xiaoshuai Hao
+- **Authors:** <br>Lingfeng Zhang, Erjia Xiao, Yuchen Zhang, Haoxiang Fu, Ruibin Hu, Yanbiao Ma, Wenbo Ding, Long Chen, Hangjun Ye, and Xiaoshuai Hao
 - **Affiliation:** <br>Tsinghua University, Xiaomi EV, HKUST(GZ), Georgia Institute of Technology, National University of Singapore, The Chinese University of Hong Kong, Renmin University of China
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track4_XiaomiEV_AD_VLA.pdf)
 
@@ -192,11 +192,19 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 
 #### Track 5: Cross-Platform 3D Object Detection
 
-
 > Robust 3D Object Detection via Physical-Aware Augmentation and Class-Specific Model Ensembling
 - **Authors:** <br>Shuangzhi Li, Junlong Shen, and Xingyu Li
 - **Affiliation:** <br>Department of Electrical and Computer Engineering, University of Alberta
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track5_PointLoom.pdf)
+
+
+> Towards Cross-Platform Generalization: Domain Adaptive 3D Detection with Augmentation and Pseudo-Labeling
+- **Authors:** <br>Xiyan Feng, Wenbo Zhang, Lu Zhang, Yunzhi Zhuge, Huchuan Lu, and You He
+- **Affiliation:** <br>Dalian University of Technology, Shenzhen International Graduate School, Tsinghua University
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track5_DUTLu_group.pdf)
+
+
+
 
 
 
