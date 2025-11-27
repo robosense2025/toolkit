@@ -153,7 +153,12 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 
 #### Track 2: Social Navigation
 
+> Learning to Navigate Socially Through Proactive Risk Perception
+- **Authors:** <br>Erjia Xiao, Lingfeng Zhang, Yingbo Tang, Hao Cheng, Renjing Xu, Wenbo Ding, Lei Zhou, Long Chen, Hangjun Ye, and Xiaoshuai Hao
+- **Affiliation:** <br>HKUST(GZ), Tsinghua University, Xiaomi EV, Institute of Automation, CAS
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track2_XiaomiEV_AD_VLA.pdf)
 
+  
 
 
 
@@ -187,6 +192,18 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 
 
 #### Track 4: Cross-Modal Drone Navigation
+
+> A Parameter-Efficient Mixture-of-Experts Framework for Cross-Modal Geo-Localization
+- **Authors:** <br>Linfeng Li, Jian Zhao, Zepeng Yang, Yuhang Song, Bojun Lin, Tianle Zhang, Yuchen Yuan, Chi Zhang, and Xuelong Li
+- **Affiliation:** <br>The Institute of Artificial Intelligence (TeleAI), China Telecom, East China Normal University, National Tsing Hua University
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track4_TeleAI.pdf)
+
+
+> HCCM: Hierarchical Cross-Granularity Contrastive and Matching Learning for Cross-Modal Drone Navigation
+- **Authors:** <br>Hao Ruan, Jinliang Lin, Zhiming Luo, Yu Zang, and Cheng Wang
+- **Affiliation:** <br>Xiamen University
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track4_rhao_hur.pdf)
+
 
 > Caption-Guided Retrieval System for Cross-Modal Drone Navigation
 - **Authors:** <br>Lingfeng Zhang, Erjia Xiao, Yuchen Zhang, Haoxiang Fu, Ruibin Hu, Yanbiao Ma, Wenbo Ding, Long Chen, Hangjun Ye, and Xiaoshuai Hao
