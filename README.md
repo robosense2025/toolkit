@@ -217,6 +217,13 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track5_Hunter.pdf)
 
 
+> Unsupervised Domain Adaptation for 3D Object Detection via Adversarial Learning
+- **Authors:** <br>Shurui Qin, Gan Sun, Yao He, and Wei Cong
+- **Affiliation:** <br>School of Automation Science and Engineering, South China University of Technology, Shenyang Institute of Automation, Chinese Academy of Sciences
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track5_TeamArcN.pdf)
+
+
+
 
 
 ## Frequently Asked Questions (FAQs)
