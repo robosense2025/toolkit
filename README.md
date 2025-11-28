@@ -165,6 +165,12 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track2_XiaomiEV_AD_VLA.pdf)
 
 
+> From Imitation to Interaction: A Two-Stage Training Paradigm for Social Navigation
+- **Authors:** <br>Wenxiang Shi, Jingmeng Zhou, Weijun Zeng, and Zhipeng Zhang
+- **Affiliation:** <br>AutoLab, School of Artificial Intelligence, Shanghai Jiao Tong University
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track2_AutoRobot.pdf)
+
+
 > Enhancing Robust Social Navigation with Cutout: Handling Human Occlusion in Dynamic Environments
 - **Authors:** <br>Faduo Liang
 - **Affiliation:** <br>South China University of Technology
