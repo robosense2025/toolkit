@@ -159,6 +159,13 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track1_UCAS_CSU.pdf)
 
 
+> Driving Robustly through Corruptions: Multi-Source LoRA Fine-Tuning of Driving VLMs for Multi-View Reasoning
+- **Authors:** <br>Yuxia Fu, Djamahl Etchegaray, Yadan Luo
+- **Affiliation:** <br>The University of Queensland, Brisbane, Australia
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track1_UQMM.pdf)
+
+
+
 
 
 
