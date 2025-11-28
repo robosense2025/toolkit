@@ -147,6 +147,11 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 
 #### Track 1: Driving with Language
 
+> Enhancing Multi-View Driving VLMs via Pseudo-Label Pretraining and Long-Tail Balancing
+- **Authors:** <br>Jiangpeng Zheng, Ji Ao, Guang Yang, and Siyu Wang
+- **Affiliation:** <br>Tianjin University of Technology
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track1_TQL.pdf)
+
 
 
 
