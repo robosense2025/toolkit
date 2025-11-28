@@ -158,7 +158,13 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 - **Affiliation:** <br>HKUST(GZ), Tsinghua University, Xiaomi EV, Institute of Automation, CAS
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track2_XiaomiEV_AD_VLA.pdf)
 
-  
+
+> Enhancing Robust Social Navigation with Cutout: \\Handling Human Occlusion in Dynamic Environments
+- **Authors:** <br>Faduo Liang
+- **Affiliation:** <br>South China University of Technology
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track2_DUO.pdf)
+
+
 
 
 
