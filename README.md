@@ -153,6 +153,12 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 
 #### Track 2: Social Navigation
 
+> PER-Falcon: Positive-Episode Replay for Future-Aware Social Navigation
+- **Authors:** <br>Zihao Zhang, Yu Zhong, Enzhu Gao, Xinhan Zheng, Xueting Wang, Shouming Li, Yunkai Gao, Siming Lan, Mingfei Han, and Xing Hu 
+- **Affiliation:** <br>Institute of Computing Technology, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Institute of AI for Industries, University of Science and Technology of China, Beijing University of Technology, Mohamed Bin Zayed University of Artificial Intelligence
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track2_AreIvan.pdf)
+
+
 > Learning to Navigate Socially Through Proactive Risk Perception
 - **Authors:** <br>Erjia Xiao, Lingfeng Zhang, Yingbo Tang, Hao Cheng, Renjing Xu, Wenbo Ding, Lei Zhou, Long Chen, Hangjun Ye, and Xiaoshuai Hao
 - **Affiliation:** <br>HKUST(GZ), Tsinghua University, Xiaomi EV, Institute of Automation, CAS
