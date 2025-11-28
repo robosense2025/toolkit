@@ -165,10 +165,16 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track2_XiaomiEV_AD_VLA.pdf)
 
 
-> Enhancing Robust Social Navigation with Cutout: \\Handling Human Occlusion in Dynamic Environments
+> Enhancing Robust Social Navigation with Cutout: Handling Human Occlusion in Dynamic Environments
 - **Authors:** <br>Faduo Liang
 - **Affiliation:** <br>South China University of Technology
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track2_DUO.pdf)
+
+
+> Towards Socially Compliant Navigation: Hybrid Parameter Optimization for Falcon in Dynamic Environments
+- **Authors:** <br>Yang Li, Congfei Li, Yuxiang Sun
+- **Affiliation:** <br>City University of Hong Kong
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track2_CityU_ASL.pdf)
 
 
 
