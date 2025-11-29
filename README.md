@@ -1,4 +1,4 @@
-<img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/18db3ee7-b04b-4b90-a931-35aef7caf839" /># RoboSense 2025 Toolkit
+# RoboSense 2025 Toolkit
 
 This is the toolkit page of the [2025 RoboSense Challenge](https://robosense2025.github.io/).
 
@@ -157,6 +157,12 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 - **Authors:** <br>Aodi Wu and Xubo Luo
 - **Affiliation:** <br>University of Chinese Academy of Sciences, Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track1_UCAS_CSU.pdf)
+
+
+> Task Aware Prompt Routing and CoT Augmented Fine Tuning for Driving VQA
+- **Authors:** <br>Hanshi Wang, Xijie Gong, Yixiang Yang, Qianli Ma, Zhipeng Zhang 
+- **Affiliation:** <br>AutoLab, School of Artificial Intelligence, Shanghai Jiao Tong University
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track1_AutoRobots.pdf)
 
 
 > Driving Robustly through Corruptions: Multi-Source LoRA Fine-Tuning of Driving VLMs for Multi-View Reasoning
