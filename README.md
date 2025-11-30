@@ -218,6 +218,12 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 
 #### Track 3: Sensor Placement
 
+> GBlobs: Local LiDAR Geometry for Improved Sensor Placement Generalization
+- **Authors:** <br>Dusan Malic, Christian Fruhwirth-Reisinger, Alexander Prutsch, Wei Lin, Samuel Schulter, Horst Possegger
+- **Affiliation:** <br>Institute of Visual Computing, Graz University of Technology, Christian Doppler Laboratory for Embedded Machine Learning, Institute for Machine Learning, Johannes Kepler University Linz, Amazon
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track3_LRP.pdf)
+
+  
 > Robust 3D Object Detection under Sensor Placement Variability
 - **Authors:** <br>Junlong Shen, Shuangzhi Li, and Xingyu Li
 - **Affiliation:** <br>Department of Electrical and Computer Engineering, University of Alberta
