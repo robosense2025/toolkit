@@ -165,6 +165,12 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track1_AutoRobots.pdf)
 
 
+> Towards Robust Autonomous Driving Question-Answering through Metadata-Grounded Context and Task-Specific Prompts
+- **Authors:** <br>Seungjun Yu, Junsung Park, Youngsun Lim, Hyunjung Shim
+- **Affiliation:** <br>Korea Advanced Institute of Science and Technology
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track1_CVML.pdf)
+
+  
 > Driving Robustly through Corruptions: Multi-Source LoRA Fine-Tuning of Driving VLMs for Multi-View Reasoning
 - **Authors:** <br>Yuxia Fu, Djamahl Etchegaray, Yadan Luo
 - **Affiliation:** <br>The University of Queensland, Brisbane, Australia
@@ -264,6 +270,12 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 
 #### Track 5: Cross-Platform 3D Object Detection
 
+> DataEngine: Unified Pre-Training and Viewpoint Normalization for Cross-Platform 3D Object Detection
+- **Authors:** <br>Youngseok Kim, Sihwan Hwang, Hyeonjun Jeong
+- **Affiliation:** <br>Visionary Inc., KAIST
+- **PDF:** [Download](./technical_reports/RoboSense2025_Track5_Visionary.pdf)
+
+  
 > Robust 3D Object Detection via Physical-Aware Augmentation and Class-Specific Model Ensembling
 - **Authors:** <br>Shuangzhi Li, Junlong Shen, and Xingyu Li
 - **Affiliation:** <br>Department of Electrical and Computer Engineering, University of Alberta
