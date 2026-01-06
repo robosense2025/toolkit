@@ -160,19 +160,19 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 
 
 > Task Aware Prompt Routing and CoT Augmented Fine Tuning for Driving VQA
-- **Authors:** <br>Hanshi Wang, Xijie Gong, Yixiang Yang, Qianli Ma, Zhipeng Zhang 
+- **Authors:** <br>Hanshi Wang, Xijie Gong, Yixiang Yang, Qianli Ma, and Zhipeng Zhang 
 - **Affiliation:** <br>AutoLab, School of Artificial Intelligence, Shanghai Jiao Tong University
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track1_AutoRobots.pdf)
 
 
 > Towards Robust Autonomous Driving Question-Answering through Metadata-Grounded Context and Task-Specific Prompts
-- **Authors:** <br>Seungjun Yu, Junsung Park, Youngsun Lim, Hyunjung Shim
+- **Authors:** <br>Seungjun Yu, Junsung Park, Youngsun Lim, and Hyunjung Shim
 - **Affiliation:** <br>Korea Advanced Institute of Science and Technology
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track1_CVML.pdf)
 
   
 > Driving Robustly through Corruptions: Multi-Source LoRA Fine-Tuning of Driving VLMs for Multi-View Reasoning
-- **Authors:** <br>Yuxia Fu, Djamahl Etchegaray, Yadan Luo
+- **Authors:** <br>Yuxia Fu, Djamahl Etchegaray, and Yadan Luo
 - **Affiliation:** <br>The University of Queensland, Brisbane, Australia
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track1_UQMM.pdf)
 
@@ -208,7 +208,7 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 
 
 > Towards Socially Compliant Navigation: Hybrid Parameter Optimization for Falcon in Dynamic Environments
-- **Authors:** <br>Yang Li, Congfei Li, Yuxiang Sun
+- **Authors:** <br>Yang Li, Congfei Li, and Yuxiang Sun
 - **Affiliation:** <br>City University of Hong Kong
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track2_CityU_ASL.pdf)
 
@@ -219,7 +219,7 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 #### Track 3: Sensor Placement
 
 > GBlobs: Local LiDAR Geometry for Improved Sensor Placement Generalization
-- **Authors:** <br>Dusan Malic, Christian Fruhwirth-Reisinger, Alexander Prutsch, Wei Lin, Samuel Schulter, Horst Possegger
+- **Authors:** <br>Dusan Malic, Christian Fruhwirth-Reisinger, Alexander Prutsch, Wei Lin, Samuel Schulter, and Horst Possegger
 - **Affiliation:** <br>Institute of Visual Computing, Graz University of Technology, Christian Doppler Laboratory for Embedded Machine Learning, Institute for Machine Learning, Johannes Kepler University Linz, Amazon
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track3_LRP.pdf)
 
@@ -277,7 +277,7 @@ Please download the template from [here](https://github.com/robosense2025/toolki
 #### Track 5: Cross-Platform 3D Object Detection
 
 > DataEngine: Unified Pre-Training and Viewpoint Normalization for Cross-Platform 3D Object Detection
-- **Authors:** <br>Youngseok Kim, Sihwan Hwang, Hyeonjun Jeong
+- **Authors:** <br>Youngseok Kim, Sihwan Hwang, and Hyeonjun Jeong
 - **Affiliation:** <br>Visionary Inc., KAIST
 - **PDF:** [Download](./technical_reports/RoboSense2025_Track5_Visionary.pdf)
 
